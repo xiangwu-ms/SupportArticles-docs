@@ -28,7 +28,7 @@ _Original KB number:_ &nbsp; 4514607
 
 - Windows Server 2016
 
-    Windows Server 2016 supports AMD EPYC 7xx2-series CPUs. The support is limited to no more than 255 logical processors. Windows Server 2016 does not support X2APIC mode, and you should disable this mode in the computer's basic input/output system (BIOS).
+    Windows Server 2016 supports AMD EPYC 7xx2-series CPUs. The support is limited to no more than 255 logical processors. Windows Server 2016 does not support X2APIC mode, and you should disable this mode in the computer's basic input/output system (BIOS). Use the Windows Server 2016 refreshed media image Feb 2018 from appropriate licensing channel as applicable.
 
 - Windows Server 2012 R2
 
